@@ -10,12 +10,12 @@ The **financial prediction model** designed to accurately forecast cryptocurrenc
 - **Target:** Close Price prediction.
 
 ## Key Features
- **Advanced Deep Learning Architecture:** Bidirectional LSTM with Attention Mechanism for improved sequence learning.  
- **Feature Engineering:** Multiple technical indicators (MA, RSI, MACD, etc.) added to enhance prediction accuracy.  
- **Monte Carlo Dropout:** Uncertainty estimation using multiple forward passes.  
- **Hyperparameter Tuning:** Optimized using **Optuna** for the best model performance.  
- **Future Price Prediction:** Robust forecasting over multiple days with confidence intervals.  
- **Visualization:** Interactive plotting of predictions and confidence intervals.
+- **Advanced Deep Learning Architecture:** Bidirectional LSTM with Attention Mechanism for improved sequence learning.  
+- **Feature Engineering:** Multiple technical indicators (MA, RSI, MACD, etc.) added to enhance prediction accuracy.  
+- **Monte Carlo Dropout:** Uncertainty estimation using multiple forward passes.  
+- **Hyperparameter Tuning:** Optimized using **Optuna** for the best model performance.  
+- **Future Price Prediction:** Robust forecasting over multiple days with confidence intervals.  
+- **Visualization:** Interactive plotting of predictions and confidence intervals.
 
 ## Model Performance
 | Metric               | Value           |
